@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-heroku-keepalive",
   "hubot-beer-me",
-  "hubot-voting"
+  "hubot-voting",
+  "slack-destiny-bot"
 ]
